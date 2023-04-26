@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 600px) {
+    .mainbox{
+        padding: 10px !important;
+    }
+
+    .maincard  h1{
+        font-size: 15px !important;
+        text-decoration: underline;
+    }
+
+    .maincard{
+        width: 95% !important;
+        height: 30vh !important;
+        margin: 0px 0px 0px 0px;
+    }
+
+    .img-container{
+        height: 20vh !important;
+        width: 55% !important;
+        gap: 20% !important;
+        padding: 0px 15px !important;
+    }
+
+    .images{
+        width: 55% !important;
+    }
+
+}
